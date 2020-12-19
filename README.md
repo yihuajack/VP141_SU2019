@@ -18,3 +18,4 @@ According to the student handbook (2019 version),
 | lab2-report | 27    | 50     | 34.7 |
 | lab3-report | 35    | 60     | 35.6 |
 
+Note the original file "How to Find the Room for Lab 1.pdf" in "resources" folder is too large (21646KIB) and is useless so not uploaded.
